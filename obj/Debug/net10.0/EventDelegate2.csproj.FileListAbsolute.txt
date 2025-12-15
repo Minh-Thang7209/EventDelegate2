@@ -1,0 +1,14 @@
+/Users/thang1/EventDelegate2/bin/Debug/net10.0/EventDelegate2
+/Users/thang1/EventDelegate2/bin/Debug/net10.0/EventDelegate2.deps.json
+/Users/thang1/EventDelegate2/bin/Debug/net10.0/EventDelegate2.runtimeconfig.json
+/Users/thang1/EventDelegate2/bin/Debug/net10.0/EventDelegate2.dll
+/Users/thang1/EventDelegate2/bin/Debug/net10.0/EventDelegate2.pdb
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.AssemblyInfoInputs.cache
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.AssemblyInfo.cs
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.csproj.CoreCompileInputs.cache
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.dll
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/refint/EventDelegate2.dll
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.pdb
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.genruntimeconfig.cache
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/ref/EventDelegate2.dll
