@@ -4,6 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Task1.Run();
+        Console.WriteLine();
+
+        Task2Test.Run();
+        Console.WriteLine();
+
+        Task3.Run();
     }
 }

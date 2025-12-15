@@ -12,3 +12,4 @@
 /Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.pdb
 /Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.genruntimeconfig.cache
 /Users/thang1/EventDelegate2/obj/Debug/net10.0/ref/EventDelegate2.dll
+/Users/thang1/EventDelegate2/obj/Debug/net10.0/EventDelegate2.sourcelink.json
